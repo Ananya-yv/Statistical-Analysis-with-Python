@@ -6,7 +6,7 @@ It explores both descriptive and inferential statistics. Appropriate visualizati
 A Diabetes data set is used to perform the analysis. 
 
 <br>
-View the 'python statistics.ipynb' file for the full report. 
+View the 'Python Statistics.ipynb' file for the full report. 
 <br>
 
 Dataset used: 'diabetes.csv'
